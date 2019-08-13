@@ -31,3 +31,9 @@ You build the entirety of PALISADE by running make. There are various command li
 * BACKEND=n builds the library with MATHBACKEND set to n (you may want to touch the src/core/lib/math/backend.h file to force the build)
 * COVERAGE=any builds the library with coverage testing enabled
 * MEM=any builds the library without optimizations
+
+
+### Build instruction 
+
+http://mitzen.blogspot.com/2019/08/palisade-library-compile-for-linux.html
+
